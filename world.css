@@ -59,3 +59,13 @@ p{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+table{
+    padding: 50px;
+    width: 1200px;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #bcccfd;
+}
