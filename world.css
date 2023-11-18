@@ -34,22 +34,22 @@ header img{
     align-items: left;
     padding: 10px;
     flex-direction: row;
-    gap: 50px;
+    gap: 20px;
 }
 
 button{
-    height: 50px;
-    width: 150px;
+    height: 60px;
+    width: 180px;
     background-color: #6389fa;
     border-radius: 12px;
-    font-size: 25px;
+    font-size: 22px;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 input {
-    width: 750px;
-    height: 50px;
+    width: 730px;
+    height: 60px;
     border-radius: 5px;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -68,4 +68,8 @@ table{
 
 tr:nth-child(even) {
     background-color: #bcccfd;
+}
+
+label{
+    font-size: 30px;
 }
